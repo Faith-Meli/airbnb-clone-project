@@ -80,7 +80,7 @@ Design helps make the site easy to use and consistent.
 
 ---
 
-## UI Components
+##  UI Component Patterns
 
 - **Navbar** – logo, search bar, profile
 - **Property Card** – image, price, location
