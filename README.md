@@ -65,7 +65,7 @@ This is a beginner-friendly full-stack clone of the Airbnb website. It lets user
 Design helps make the site easy to use and consistent.
 
 
-## Team Roles
+## Project Roles and Responsibilities
 
 | Role               | What They Do                         |
 |--------------------|---------------------------------------|
